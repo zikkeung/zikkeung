@@ -21,13 +21,13 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[2天前 👍：11  ⭐：8]
+<li align='left'>[3天前 👍：11  ⭐：8]
       <a href="https://juejin.cn/post/7246010218412376120" target="_blank">测试同事直呼卧槽：路由居然自动生成方法和参数类型提示！</a>
       </li>
 <li align='left'>[1个月前 👍：26  ⭐：29]
       <a href="https://juejin.cn/post/7233053557834285117" target="_blank">泰裤🌶，gayhub首页居然能自动同步多平台文章!</a>
       </li>
-<li align='left'>[1个月前 👍：259  ⭐：353]
+<li align='left'>[1个月前 👍：261  ⭐：355]
       <a href="https://juejin.cn/post/7231577806189133884" target="_blank">偏爱console.log的你，肯定会觉得这个插件泰裤辣！</a>
       </li>
 <li align='left'>[2个月前 👍：138  ⭐：115]
