@@ -21,16 +21,16 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[4天前 👍：7  ⭐：3]
+<li align='left'>[5天前 👍：7  ⭐：4]
       <a href="https://juejin.cn/post/7251170829969981500" target="_blank">这个vite插件让console.log究极进化！</a>
       </li>
-<li align='left'>[18天前 👍：17  ⭐：15]
+<li align='left'>[19天前 👍：17  ⭐：16]
       <a href="https://juejin.cn/post/7246010218412376120" target="_blank">同事直呼卧槽：React路由居然自动生成方法和参数类型提示！</a>
       </li>
 <li align='left'>[1个月前 👍：28  ⭐：32]
       <a href="https://juejin.cn/post/7233053557834285117" target="_blank">泰裤辣，github居然能自动同步多平台文章!</a>
       </li>
-<li align='left'>[1个月前 👍：337  ⭐：438]
+<li align='left'>[1个月前 👍：340  ⭐：441]
       <a href="https://juejin.cn/post/7231577806189133884" target="_blank">偏爱console.log的你，肯定会觉得这个插件泰裤辣！</a>
       </li>
 <li align='left'>[2个月前 👍：141  ⭐：120]
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <li align='left'>[2个月前 👍：187  ⭐：207]
       <a href="https://juejin.cn/post/7222676935146307644" target="_blank">想到头秃也想不到，Vue3复用组件还可以这么hack</a>
       </li>
-<li align='left'>[3个月前 👍：171  ⭐：179]
+<li align='left'>[3个月前 👍：171  ⭐：180]
       <a href="https://juejin.cn/post/7217836890119995450" target="_blank">看了antfu大佬的v-lazy-show,我学会了怎么编译模板指令</a>
       </li>
 <li align='left'>[4个月前 👍：71  ⭐：55]
