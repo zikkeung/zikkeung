@@ -21,16 +21,16 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[5天前 👍：7  ⭐：4]
+<li align='left'>[6天前 👍：9  ⭐：5]
       <a href="https://juejin.cn/post/7251170829969981500" target="_blank">这个vite插件让console.log究极进化！</a>
       </li>
-<li align='left'>[19天前 👍：17  ⭐：16]
+<li align='left'>[20天前 👍：17  ⭐：16]
       <a href="https://juejin.cn/post/7246010218412376120" target="_blank">同事直呼卧槽：React路由居然自动生成方法和参数类型提示！</a>
       </li>
-<li align='left'>[1个月前 👍：28  ⭐：32]
+<li align='left'>[1个月前 👍：29  ⭐：32]
       <a href="https://juejin.cn/post/7233053557834285117" target="_blank">泰裤辣，github居然能自动同步多平台文章!</a>
       </li>
-<li align='left'>[1个月前 👍：340  ⭐：441]
+<li align='left'>[1个月前 👍：341  ⭐：446]
       <a href="https://juejin.cn/post/7231577806189133884" target="_blank">偏爱console.log的你，肯定会觉得这个插件泰裤辣！</a>
       </li>
 <li align='left'>[2个月前 👍：141  ⭐：120]
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <li align='left'>[4个月前 👍：71  ⭐：55]
       <a href="https://juejin.cn/post/7207079381670740025" target="_blank">随手写了个plugin，就将小程序体积减少了120k</a>
       </li>
-<li align='left'>[4个月前 👍：99  ⭐：95]
+<li align='left'>[4个月前 👍：100  ⭐：95]
       <a href="https://juejin.cn/post/7204100122887536700" target="_blank">你还别不信，我帮同事优化代码，速度快了1000倍以上！！</a>
       </li>
 <li align='left'>[4个月前 👍：56  ⭐：38]
