@@ -21,7 +21,7 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[17天前 👍：13  ⭐：3]
+<li align='left'>[18天前 👍：13  ⭐：3]
       <a href="https://juejin.cn/post/7256346521644482615" target="_blank">迟到的2023年中总结 | 我又在折腾啥？</a>
       </li>
 <li align='left'>[1个月前 👍：15  ⭐：20]
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <li align='left'>[2个月前 👍：29  ⭐：33]
       <a href="https://juejin.cn/post/7233053557834285117" target="_blank">泰裤辣，github居然能自动同步多平台文章!</a>
       </li>
-<li align='left'>[2个月前 👍：389  ⭐：523]
+<li align='left'>[2个月前 👍：391  ⭐：528]
       <a href="https://juejin.cn/post/7231577806189133884" target="_blank">偏爱console.log的你，肯定会觉得这个插件泰裤辣！</a>
       </li>
 <li align='left'>[3个月前 👍：145  ⭐：121]
