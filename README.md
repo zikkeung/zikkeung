@@ -21,7 +21,7 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[1个月前 👍：15  ⭐：7]
+<li align='left'>[1个月前 👍：16  ⭐：8]
       <a href="https://juejin.cn/post/7256346521644482615" target="_blank">迟到的2023年中总结 | 我又在折腾啥？</a>
       </li>
 <li align='left'>[2个月前 👍：22  ⭐：30]
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <li align='left'>[5个月前 👍：182  ⭐：189]
       <a href="https://juejin.cn/post/7217836890119995450" target="_blank">看了antfu大佬的v-lazy-show,我学会了怎么编译模板指令</a>
       </li>
-<li align='left'>[5个月前 👍：75  ⭐：57]
+<li align='left'>[6个月前 👍：75  ⭐：57]
       <a href="https://juejin.cn/post/7207079381670740025" target="_blank">随手写了个plugin，就将小程序体积减少了120k</a>
       </li>
 <li align='left'>[6个月前 👍：102  ⭐：104]
