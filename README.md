@@ -21,10 +21,10 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[1个月前 👍：18  ⭐：9]
+<li align='left'>[1个月前 👍：18  ⭐：10]
       <a href="https://juejin.cn/post/7256346521644482615" target="_blank">迟到的2023年中总结 | 我又在折腾啥？</a>
       </li>
-<li align='left'>[2个月前 👍：26  ⭐：35]
+<li align='left'>[2个月前 👍：28  ⭐：37]
       <a href="https://juejin.cn/post/7251170829969981500" target="_blank">这个vite插件让console.log究极进化！</a>
       </li>
 <li align='left'>[2个月前 👍：25  ⭐：26]
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <li align='left'>[4个月前 👍：147  ⭐：121]
       <a href="https://juejin.cn/post/7223779544368545853" target="_blank">这次我写了个babel plugin，将小程序体积降低了286k！</a>
       </li>
-<li align='left'>[4个月前 👍：203  ⭐：229]
+<li align='left'>[4个月前 👍：204  ⭐：229]
       <a href="https://juejin.cn/post/7222676935146307644" target="_blank">想到头秃也想不到，Vue3复用组件还可以这么hack</a>
       </li>
 <li align='left'>[5个月前 👍：182  ⭐：189]
