@@ -21,10 +21,10 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[3个月前 👍：24  ⭐：16]
+<li align='left'>[3个月前 👍：25  ⭐：16]
       <a href="https://juejin.cn/post/7256346521644482615" target="_blank">迟到的2023年中总结 | 我又在折腾啥？</a>
       </li>
-<li align='left'>[4个月前 👍：51  ⭐：64]
+<li align='left'>[4个月前 👍：51  ⭐：65]
       <a href="https://juejin.cn/post/7251170829969981500" target="_blank">这个vite插件让console.log究极进化！</a>
       </li>
 <li align='left'>[4个月前 👍：26  ⭐：26]
