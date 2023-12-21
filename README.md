@@ -21,7 +21,7 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[5个月前 👍：25  ⭐：17]
+<li align='left'>[5个月前 👍：26  ⭐：17]
       <a href="https://juejin.cn/post/7256346521644482615" target="_blank">迟到的2023年中总结 | 我又在折腾啥？</a>
       </li>
 <li align='left'>[5个月前 👍：52  ⭐：70]
@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 <li align='left'>[7个月前 👍：30  ⭐：37]
       <a href="https://juejin.cn/post/7233053557834285117" target="_blank">泰裤辣，github居然能自动同步多平台文章!</a>
       </li>
-<li align='left'>[7个月前 👍：548  ⭐：650]
+<li align='left'>[7个月前 👍：549  ⭐：650]
       <a href="https://juejin.cn/post/7231577806189133884" target="_blank">偏爱console.log的你，肯定会觉得这个插件泰裤辣！</a>
       </li>
-<li align='left'>[8个月前 👍：155  ⭐：124]
+<li align='left'>[8个月前 👍：156  ⭐：124]
       <a href="https://juejin.cn/post/7223779544368545853" target="_blank">这次我写了个babel plugin，将小程序体积降低了286k！</a>
       </li>
 <li align='left'>[8个月前 👍：229  ⭐：253]
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <li align='left'>[8个月前 👍：194  ⭐：206]
       <a href="https://juejin.cn/post/7217836890119995450" target="_blank">看了antfu大佬的v-lazy-show,我学会了怎么编译模板指令</a>
       </li>
-<li align='left'>[9个月前 👍：77  ⭐：58]
+<li align='left'>[9个月前 👍：78  ⭐：58]
       <a href="https://juejin.cn/post/7207079381670740025" target="_blank">随手写了个plugin，就将小程序体积减少了120k</a>
       </li>
 <li align='left'>[9个月前 👍：107  ⭐：105]
