@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <li align='left'>[5个月前 👍：52  ⭐：70]
       <a href="https://juejin.cn/post/7251170829969981500" target="_blank">这个vite插件让console.log究极进化！</a>
       </li>
-<li align='left'>[6个月前 👍：29  ⭐：29]
+<li align='left'>[6个月前 👍：29  ⭐：30]
       <a href="https://juejin.cn/post/7246010218412376120" target="_blank">同事直呼卧槽：React路由居然自动生成方法和参数类型提示！</a>
       </li>
 <li align='left'>[7个月前 👍：30  ⭐：37]
