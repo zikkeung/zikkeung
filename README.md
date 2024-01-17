@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <li align='left'>[6个月前 👍：26  ⭐：17]
       <a href="https://juejin.cn/post/7256346521644482615" target="_blank">迟到的2023年中总结 | 我又在折腾啥？</a>
       </li>
-<li align='left'>[6个月前 👍：52  ⭐：71]
+<li align='left'>[6个月前 👍：52  ⭐：73]
       <a href="https://juejin.cn/post/7251170829969981500" target="_blank">这个vite插件让console.log究极进化！</a>
       </li>
 <li align='left'>[7个月前 👍：29  ⭐：31]
