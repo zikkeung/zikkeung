@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <li align='left'>[9个月前 👍：34  ⭐：41]
       <a href="https://juejin.cn/post/7233053557834285117" target="_blank">泰裤辣，github居然能自动同步多平台文章!</a>
       </li>
-<li align='left'>[9个月前 👍：556  ⭐：662]
+<li align='left'>[9个月前 👍：557  ⭐：663]
       <a href="https://juejin.cn/post/7231577806189133884" target="_blank">偏爱console.log的你，肯定会觉得这个插件泰裤辣！</a>
       </li>
 <li align='left'>[10个月前 👍：167  ⭐：134]
