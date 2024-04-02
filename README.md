@@ -21,13 +21,13 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[7天前 👍：6  ⭐：4]
+<li align='left'>[8天前 👍：6  ⭐：5]
       <a href="https://juejin.cn/post/7349588906910433332" target="_blank">如何更优雅地为naive-ui的useMessage扩展全局方法</a>
       </li>
 <li align='left'>[8个月前 👍：26  ⭐：17]
       <a href="https://juejin.cn/post/7256346521644482615" target="_blank">迟到的2023年中总结 | 我又在折腾啥？</a>
       </li>
-<li align='left'>[9个月前 👍：52  ⭐：77]
+<li align='left'>[9个月前 👍：52  ⭐：78]
       <a href="https://juejin.cn/post/7251170829969981500" target="_blank">这个vite插件让console.log究极进化！</a>
       </li>
 <li align='left'>[9个月前 👍：31  ⭐：33]
