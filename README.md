@@ -21,7 +21,7 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[8天前 👍：11  ⭐：4]
+<li align='left'>[9天前 👍：11  ⭐：5]
       <a href="https://juejin.cn/post/7357957599843663872" target="_blank">不妨试试vite-plugin-alias-import-checker来规范的你import~</a>
       </li>
 <li align='left'>[1个月前 👍：7  ⭐：7]
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <li align='left'>[1年前 👍：176  ⭐：139]
       <a href="https://juejin.cn/post/7223779544368545853" target="_blank">这次我写了个babel plugin，将小程序体积降低了286k！</a>
       </li>
-<li align='left'>[1年前 👍：260  ⭐：291]
+<li align='left'>[1年前 👍：259  ⭐：292]
       <a href="https://juejin.cn/post/7222676935146307644" target="_blank">想到头秃也想不到，Vue3复用组件还可以这么hack</a>
       </li>
 <li align='left'>[1年前 👍：212  ⭐：234]
