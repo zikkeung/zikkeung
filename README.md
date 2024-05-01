@@ -21,7 +21,7 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[14天前 👍：12  ⭐：6]
+<li align='left'>[15天前 👍：12  ⭐：6]
       <a href="https://juejin.cn/post/7357957599843663872" target="_blank">不妨试试vite-plugin-alias-import-checker来规范的你import~</a>
       </li>
 <li align='left'>[1个月前 👍：7  ⭐：7]
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <li align='left'>[10个月前 👍：31  ⭐：33]
       <a href="https://juejin.cn/post/7246010218412376120" target="_blank">同事直呼卧槽：React路由居然自动生成方法和参数类型提示！</a>
       </li>
-<li align='left'>[11个月前 👍：36  ⭐：42]
+<li align='left'>[11个月前 👍：37  ⭐：42]
       <a href="https://juejin.cn/post/7233053557834285117" target="_blank">泰裤辣，github居然能自动同步多平台文章!</a>
       </li>
 <li align='left'>[11个月前 👍：563  ⭐：666]
