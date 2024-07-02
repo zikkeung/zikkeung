@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <li align='left'>[11个月前 👍：26  ⭐：17]
       <a href="https://juejin.cn/post/7256346521644482615" target="_blank">迟到的2023年中总结 | 我又在折腾啥？</a>
       </li>
-<li align='left'>[12个月前 👍：55  ⭐：86]
+<li align='left'>[1年前 👍：55  ⭐：86]
       <a href="https://juejin.cn/post/7251170829969981500" target="_blank">这个vite插件让console.log究极进化！</a>
       </li>
 <li align='left'>[1年前 👍：32  ⭐：35]
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <li align='left'>[1年前 👍：38  ⭐：43]
       <a href="https://juejin.cn/post/7233053557834285117" target="_blank">泰裤辣，github居然能自动同步多平台文章!</a>
       </li>
-<li align='left'>[1年前 👍：562  ⭐：664]
+<li align='left'>[1年前 👍：562  ⭐：663]
       <a href="https://juejin.cn/post/7231577806189133884" target="_blank">偏爱console.log的你，肯定会觉得这个插件泰裤辣！</a>
       </li>
 <li align='left'>[1年前 👍：177  ⭐：140]
