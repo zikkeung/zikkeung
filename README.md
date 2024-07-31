@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <li align='left'>[1年前 👍：561  ⭐：662]
       <a href="https://juejin.cn/post/7231577806189133884" target="_blank">偏爱console.log的你，肯定会觉得这个插件泰裤辣！</a>
       </li>
-<li align='left'>[1年前 👍：178  ⭐：141]
+<li align='left'>[1年前 👍：178  ⭐：142]
       <a href="https://juejin.cn/post/7223779544368545853" target="_blank">这次我写了个babel plugin，将小程序体积降低了286k！</a>
       </li>
 <li align='left'>[1年前 👍：259  ⭐：291]
