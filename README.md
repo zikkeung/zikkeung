@@ -21,7 +21,7 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[4个月前 👍：16  ⭐：10]
+<li align='left'>[4个月前 👍：17  ⭐：11]
       <a href="https://juejin.cn/post/7357957599843663872" target="_blank">不妨试试vite-plugin-alias-import-checker来规范的你import~</a>
       </li>
 <li align='left'>[4个月前 👍：7  ⭐：7]
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <li align='left'>[1年前 👍：561  ⭐：663]
       <a href="https://juejin.cn/post/7231577806189133884" target="_blank">偏爱console.log的你，肯定会觉得这个插件泰裤辣！</a>
       </li>
-<li align='left'>[1年前 👍：179  ⭐：142]
+<li align='left'>[1年前 👍：179  ⭐：143]
       <a href="https://juejin.cn/post/7223779544368545853" target="_blank">这次我写了个babel plugin，将小程序体积降低了286k！</a>
       </li>
 <li align='left'>[1年前 👍：259  ⭐：292]
