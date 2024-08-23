@@ -21,7 +21,7 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[4个月前 👍：18  ⭐：11]
+<li align='left'>[4个月前 👍：18  ⭐：12]
       <a href="https://juejin.cn/post/7357957599843663872" target="_blank">不妨试试vite-plugin-alias-import-checker来规范的你import~</a>
       </li>
 <li align='left'>[5个月前 👍：7  ⭐：7]
