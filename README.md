@@ -21,7 +21,7 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[5个月前 👍：21  ⭐：18]
+<li align='left'>[5个月前 👍：21  ⭐：19]
       <a href="https://juejin.cn/post/7357957599843663872" target="_blank">不妨试试vite-plugin-alias-import-checker来规范的你import~</a>
       </li>
 <li align='left'>[6个月前 👍：8  ⭐：7]
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <li align='left'>[1年前 👍：260  ⭐：293]
       <a href="https://juejin.cn/post/7222676935146307644" target="_blank">想到头秃也想不到，Vue3复用组件还可以这么hack</a>
       </li>
-<li align='left'>[1年前 👍：213  ⭐：238]
+<li align='left'>[1年前 👍：213  ⭐：239]
       <a href="https://juejin.cn/post/7217836890119995450" target="_blank">看了antfu大佬的v-lazy-show,我学会了怎么编译模板指令</a>
       </li>
 </ul>
