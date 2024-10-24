@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 <li align='left'>[1年前 👍：32  ⭐：35]
       <a href="https://juejin.cn/post/7246010218412376120" target="_blank">同事直呼卧槽：React路由居然自动生成方法和参数类型提示！</a>
       </li>
-<li align='left'>[1年前 👍：38  ⭐：45]
+<li align='left'>[1年前 👍：38  ⭐：46]
       <a href="https://juejin.cn/post/7233053557834285117" target="_blank">泰裤辣，github居然能自动同步多平台文章!</a>
       </li>
-<li align='left'>[1年前 👍：561  ⭐：662]
+<li align='left'>[1年前 👍：561  ⭐：661]
       <a href="https://juejin.cn/post/7231577806189133884" target="_blank">偏爱console.log的你，肯定会觉得这个插件泰裤辣！</a>
       </li>
 <li align='left'>[1年前 👍：179  ⭐：143]
