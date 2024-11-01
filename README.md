@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <li align='left'>[1年前 👍：179  ⭐：143]
       <a href="https://juejin.cn/post/7223779544368545853" target="_blank">这次我写了个babel plugin，将小程序体积降低了286k！</a>
       </li>
-<li align='left'>[1年前 👍：260  ⭐：293]
+<li align='left'>[1年前 👍：260  ⭐：294]
       <a href="https://juejin.cn/post/7222676935146307644" target="_blank">想到头秃也想不到，Vue3复用组件还可以这么hack</a>
       </li>
 <li align='left'>[1年前 👍：213  ⭐：239]
